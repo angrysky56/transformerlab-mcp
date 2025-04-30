@@ -1057,25 +1057,3 @@ The simulation of evolutionary layering within the SFPCS framework represents a 
 Future developments of this framework will focus on increasing the fidelity of layer-specific entities, refining transition mechanisms, and applying the resulting datasets to specific AI training and scientific modeling challenges.
 
 ---
-
-## References (unverified AI generated)
-
-1. Andersson, C., & Törnberg, P. (2024). "Emergence and multi-scale complexity in natural and artificial systems." *Journal of Complex Systems Analysis*, 42(3), 178-203.
-
-2. Jenkins, A., & Rivera, M. (2023). "Attention mechanisms and world modeling in artificial agents." *Cognitive Systems Research*, 68, 52-77.
-
-3. Levin, M., & Lewis, T. (2024). "The transitional architecture of evolutionary complexity." *Evolutionary Biology Review*, 29(1), 12-38.
-
-4. Martinez-Garcia, J., & Suzuki, R. (2023). "SFPCS: A framework for complex system simulation using AI-driven agents." *Conference on Artificial Intelligence and Simulation*, 112-129.
-
-5. Pattee, H. H., & Sayama, H. (2022). "Hierarchical complexity in natural and artificial systems: A comparative analysis." *BioSystems*, 215, 104655.
-
-6. Smith, J., & Wilson, E. (2024). "Synthetic datasets for training emergent properties in AI models." *Machine Learning Applications*, 12(2), 87-103.
-
-7. Thompson, A., & Kauffman, S. (2023). "From chemistry to cognition: Modeling major transitions in natural complexity." *Origins of Life and Evolution of Biospheres*, 53, 125-151.
-
-8. Walker, S., & Davies, P. (2024). "Information dynamics and the emergence of life-like properties." *Journal of Theoretical Biology*, 558, 111361.
-
-9. Zhang, L., & Johnson, R. (2023). "Metacognitive processes in evolutionary transitions: From social to mental capabilities." *Trends in Cognitive Sciences*, 27(5), 412-428.
-
-*Note: These references are fictional and created for illustrative purposes in this research paper.*
